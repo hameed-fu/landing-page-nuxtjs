@@ -2,15 +2,15 @@
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "E:\\\\react\\\\2\\\\pages\\\\inspire.vue",
+    "component": "E:\\\\react\\\\landing-page-nuxtjs\\\\pages\\\\inspire.vue",
     "chunkName": "pages/inspire",
-    "_name": "_00b87bcc"
+    "_name": "_732d2d6e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "E:\\\\react\\\\2\\\\pages\\\\index.vue",
+    "component": "E:\\\\react\\\\landing-page-nuxtjs\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_759c8444"
+    "_name": "_09159334"
   }
 ]
